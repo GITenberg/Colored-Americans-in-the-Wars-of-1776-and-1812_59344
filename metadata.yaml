@@ -1,11 +1,16 @@
 _repo: Colored-Americans-in-the-Wars-of-1776-and-1812_59344
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59344-h/images/cover.jpg
 creator:
   author:
     agent_name: Nell, William C.
     gutenberg_agent_id: '50405'
     url: http://www.gutenberg.org/2009/agents/50405
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59344#Colored-Americans-in-the-Wars-of-1776-and-1812
 gutenberg_issued: '2019-04-24'
 gutenberg_type: Text
 identifiers:
